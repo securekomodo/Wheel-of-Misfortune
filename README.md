@@ -1,6 +1,6 @@
 # Wheel of Misfortune
 A Javascript Halloween/Spooky themed web application based on the famous Wheel of Fortune game.
-
+![image](https://user-images.githubusercontent.com/4809643/199495946-2aba4021-e987-42e0-8089-5a65b806c558.png)
 
 ## Description
 This is a personal project web application I made for Halloween in 2022 when hosting a party. I wanted a game which played like wheel of fortune but was very spooky and dark. As there was nothing I could find anywhere, I made it myself using Javascript, CSS, and HTML. Features all sorts of spooky sound effects, ambient backgrounds, and taunts! Most were recorded by me a sampled down but a few you might recognize from Mortal Combat, "Flawless Victory!" :)
@@ -10,6 +10,7 @@ The clues are loaded via JSON and can be fully customized for whatever categorie
 For my setup I just used my mac and airplayed to the TV so everyone could see and play. But could also be done with a smart TV browser and local web server too. Just need to have a browser, keyboard, and mouse.
 
 There are not many options yet on the spinning wheel but this can easily be expanded to include more prizes and penalties, it worked for my needs.
+![image](https://user-images.githubusercontent.com/4809643/199494971-a2970345-3575-4e6d-b89a-9df9e9bcb2eb.png)
 
 ## Local Setup
 
