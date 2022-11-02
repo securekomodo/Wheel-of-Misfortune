@@ -20,6 +20,8 @@ There are not many options yet on the spinning wheel but this can easily be expa
 
 3) Play the game!
 
+Note: This game is meant to be played on large screens like a TV or large monitor. If resolution is an issue, use the browser Zoom In/Out settings to get the game scaled right for your purposes!
+
 # Author
 *Bryan Smith*
 * Twitter: [https://twitter.com/securekomodo](https://twitter.com/securekomodo)
