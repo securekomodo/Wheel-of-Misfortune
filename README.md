@@ -2,6 +2,11 @@
 A Javascript Halloween/Spooky themed web application based on the famous Wheel of Fortune game.
 ![image](https://user-images.githubusercontent.com/4809643/199495946-2aba4021-e987-42e0-8089-5a65b806c558.png)
 
+## Demo
+[https://securekomodo.github.io/Demos/Wheel-Of-Misfortune/index.html](https://securekomodo.github.io/Demos/Wheel-Of-Misfortune/index.html)
+
+Note: Not Mobile Friendly! This game is meant to be played on large screens like a TV or large monitor. If resolution is an issue, use the browser Zoom In/Out settings to get the game scaled right for your purposes!
+
 ## Description
 This is a personal project web application I made for Halloween in 2022 when hosting a party. I wanted a game which played like wheel of fortune but was very spooky and dark. As there was nothing I could find anywhere, I made it myself using Javascript, CSS, and HTML. Features all sorts of spooky sound effects, ambient backgrounds, and taunts! Most were recorded by me a sampled down but a few you might recognize from Mortal Combat, "Flawless Victory!" :)
 
@@ -20,7 +25,7 @@ There are not many options yet on the spinning wheel but this can easily be expa
 
 3) Play the game!
 
-Note: This game is meant to be played on large screens like a TV or large monitor. If resolution is an issue, use the browser Zoom In/Out settings to get the game scaled right for your purposes!
+
 
 # Author
 *Bryan Smith*
